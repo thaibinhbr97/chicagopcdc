@@ -164,26 +164,6 @@ Example:
 
 ---
 
-## Project Questions
-
-1. Annotation structure and schema?
-2. Supported logic complexity (AND/OR, temporal)?
-3. Conflict resolution strategy?
-4. Evaluation metrics?
-5. Patient data availability and format?
-6. UI requirements (editing vs visualization)?
-
----
-
-## Why This Approach
-
-- Modular
-- Extensible
-- Explainable
-- Production-oriented
-
----
-
 ## Timeline
 
 - Weeks 1–2: Data ingestion
